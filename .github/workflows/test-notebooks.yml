@@ -1,0 +1,38 @@
+name: Test notebooks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  notebooks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-notebook-tests.txt
+
+      - name: Install notebook test dependencies
+        run: python -m pip install --requirement requirements-notebook-tests.txt
+
+      - name: Execute notebooks
+        env:
+          MPLBACKEND: Agg
+        run: python -m pytest
+
+      - name: Verify the repository is unchanged
+        if: always()
+        run: |
+          git diff --exit-code -- '*.ipynb'
+          test -z "$(git status --porcelain --untracked-files=all)"
