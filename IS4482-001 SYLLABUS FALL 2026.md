@@ -90,7 +90,7 @@ You may NOT use it on quizzes or exams.
 
 Course presentations, syllabus, assignments, recommended readings, grades, etc. are available on CANVAS. Please see the course schedule online and on the syllabus for details regarding when and where to submit your assignments. In order to access Canvas, you need to have an active University Network ID (UNID). For more information, go to https://go.utah.edu/cas/login.
 
-# 
+
 
 # **Assignments**
 
@@ -143,7 +143,6 @@ Beginning the eleventh calendar day and continuing through the midpoint students
 
 University policy states: “An Incomplete grade can be given for work not completed due to circumstances beyond your control. You must be passing the course and have completed at least 80% of the required coursework. Arrangements must be made between you and the instructor concerning the completion of the work. You may not retake a course without paying tuition. If you attend class during a subsequent term, in an effort to complete the coursework, you must register for the course. Once the work has been completed, the instructor submits the grade to the Registrar's Office. The "I" will change to an "E" if a new grade is not reported within one year. A written agreement between you and the instructor may specify the grade to be given if the work is not completed within one year. Copies of the agreement are kept by the instructor and the academic department. If you graduate before a new grade is reported, the "I" remains on your record and will not count towards graduation or the calculation of your grade point average.”
 
-# 
 
 # **Students with Disabilities**
 
