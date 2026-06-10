@@ -207,8 +207,8 @@ If students have a concern about their grade in a particular course, they should
 
 MS = Weekly Module Survey 
 
-| Module | Topic | Readings | Deliverables |
-| :---: | :---- | ----- | :---: |
+| Module and Dates | Topic | Readings | Deliverables |
+| :--- | :--- | :--: | :---: |
 | 1 (8/24-8/30) | Week 1 - Welcome, introductions, and getting started | Readings (Welcome to Colaboratory); DSB Ch. 1 | HW 1; Q1; MS 1 |
 | 2 (8/31-9/6) | Week 2 - Data mining introduction and exploratory data analysis | DSB Ch. 2; PDFA Ch. 5, 6.1-6.2, 9 | HW 2; Q2; MS 2 |
 | 3 (9/7-9/13) | Week 3 - Introduction to classification | DSB Ch. 2; PDFA Ch. 9 | HW 3; Q3; MS 3 |
