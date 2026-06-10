@@ -48,12 +48,6 @@ The course will cover the following data mining techniques \- classification, nu
 
 The objective of this course is to provide students with the data mining knowledge foundation and skills to meaningfully leverage data using machine and statistical learning methods. After taking the class, students are expected to be able to select, apply, evaluate, and understand four types of data mining tasks – classification, numeric prediction, clustering, and association rules mining for applications. To achieve these learning goals, the course will focus on the main concepts, methods, and process of data mining as well as hands-on practices using Python.
 
-# 
-
-# 
-
-# 
-
 # **Course Materials**
 
 The primary textbook is Data Science for Business and is available within the University of Utah for free. Having free access to O’Reilly books is a great benefit to students. I highly recommend you use it to supplement your reading for other classes as well. To access the textbook use the link below and sign in with your email@utah.edu, once in you will be redirected via single sign on and can sign in with your unid and password. 
@@ -164,10 +158,6 @@ Immigration is a complex phenomenon with broad impact—those who are directly a
 
 * Rates of burnout, anxiety, depression, isolation, and loneliness have noticeably increased during the pandemic. If you need help, reach out for [campus mental health resources](https://studentaffairs.utah.edu/mental-health-resources/index.php), including counseling, trainings and other support.   
 * Consider participating in a [Mental Health First Aid](https://studentaffairs.utah.edu/mental-health-first-aid.php) or other [wellness-themed ](https://wellness.utah.edu/workshops-training/)training provided by our Center for Student Wellness and sharing these opportunities with your peers, teaching assistants and department colleagues.
-
-# 
-
-# 
 
 # **\*Grading**
 
