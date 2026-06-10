@@ -60,13 +60,13 @@ The primary textbook is Data Science for Business and is available within the Un
 
 A secondary book is Python for Data Analysis. This book is a thorough resource to learn many commands needed for exploratory data analysis, cleaning and transforming data with Python, Pandas, and Numpy. This course will use many commands and techniques covered in the book. 
 
-**\[DSB\]** Foster Provost and Tom Fawcett, Data Science for Business, O’Reilly, 2013
+**DSB** Foster Provost and Tom Fawcett, Data Science for Business, O’Reilly, 2013
 
 [https://www.oreilly.com/library/view/data-science-for/9781449374273/](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
 
  
 
-**\[PFDA\]** Wes Mckinney, Python for Data Analysis, O’Reilly, 2017
+**PDFA** Wes Mckinney, Python for Data Analysis, O’Reilly, 2017
 
 [https://learning.oreilly.com/library/view/python-for-data/9781491957653/](https://learning.oreilly.com/library/view/python-for-data/9781491957653/) 
 
@@ -220,20 +220,20 @@ MS = Weekly Module Survey
 
 | Module | Topic | Readings | Deliverables |
 | :---: | :---- | ----- | :---: |
-| 1 (8/24-8/30) | Week 1 - Welcome, introductions, and getting started | Readings (Welcome to Colaboratory); \[DSB\] Ch. 1 | HW 1; Q1; MS 1 |
-| 2 (8/31-9/6) | Week 2 - Data mining introduction and exploratory data analysis | \[DSB\] Ch. 2; \[PFDA\] Ch. 5, 6.1-6.2, 9 | HW 2; Q2; MS 2 |
-| 3 (9/7-9/13) | Week 3 - Introduction to classification | \[DSB\] Ch. 2; \[PFDA\] Ch. 9 | HW 3; Q3; MS 3 |
-| 4 (9/14-9/20) | Week 4 - Naive Bayes | \[DSB\] Ch. 3, 7; \[PFDA\] Ch. 10 | HW 4; Q4; MS 4 |
-| 5 (9/21-9/27) | Week 5 - Numeric prediction and descriptives | \[DSB\] Ch. 5, 7, 9 | HW 5; Q5; MS 5 |
-| 6 (9/28-10/4) | Week 6 - Linear regression and regression trees | \[DSB\] Ch. 4 | Q6; MS 6 |
-| 7 (10/5-10/9) | Week 7 - **Exam 1: Wednesday, October 6 (in person with LockDown Browser)**  | \[DSB\] Ch. 4 | HW 6 |
+| 1 (8/24-8/30) | Week 1 - Welcome, introductions, and getting started | Readings (Welcome to Colaboratory); DSB Ch. 1 | HW 1; Q1; MS 1 |
+| 2 (8/31-9/6) | Week 2 - Data mining introduction and exploratory data analysis | DSB Ch. 2; PDFA Ch. 5, 6.1-6.2, 9 | HW 2; Q2; MS 2 |
+| 3 (9/7-9/13) | Week 3 - Introduction to classification | DSB Ch. 2; PDFA Ch. 9 | HW 3; Q3; MS 3 |
+| 4 (9/14-9/20) | Week 4 - Naive Bayes | DSB Ch. 3, 7; PDFA Ch. 10 | HW 4; Q4; MS 4 |
+| 5 (9/21-9/27) | Week 5 - Numeric prediction and descriptives | DSB Ch. 5, 7, 9 | HW 5; Q5; MS 5 |
+| 6 (9/28-10/4) | Week 6 - Linear regression and regression trees | DSB Ch. 4 | Q6; MS 6 |
+| 7 (10/5-10/9) | Week 7 - **Exam 1: Wednesday, October 6 (in person with LockDown Browser)**  | DSB Ch. 4 | HW 6 |
 | 10/10-10/18 | **Fall Break - no class Tuesday, October 13** |  |  |
-| 8 (10/19-10/25) | Week 8 - Support vector machines and grid search | \[DSB\] Ch. 4 | Q8; MS 7 |
-| 9 (10/26-11/1) | Week 9 - Neural networks | \[DSB\] Ch. 4 | HW 7; Q9; MS 97 |
-| 10 (11/2-11/8) | Week 10 - K-nearest neighbors and project EDA submission | \[DSB\] Ch. 6 | HW 8; Q10; MS 9 |
-| 11 (11/9-11/15) | Week 11 - Clustering | \[DSB\] Ch. 6 | HW 9; Q11; MS 10 |
-| 12 (11/16-11/22) | Week 12 - Recommender Engines | \[DSB\] Ch. 12 | Q12; MS 11 |
-| 13 (11/23-11/29) | Week 13 - Ensemble methods | \[DSB\] Ch. 12 | HW 10; MS 12 |
+| 8 (10/19-10/25) | Week 8 - Support vector machines and grid search | DSB Ch. 4 | Q8; MS 7 |
+| 9 (10/26-11/1) | Week 9 - Neural networks | DSB Ch. 4 | HW 7; Q9; MS 97 |
+| 10 (11/2-11/8) | Week 10 - K-nearest neighbors and project EDA submission | DSB Ch. 6 | HW 8; Q10; MS 9 |
+| 11 (11/9-11/15) | Week 11 - Clustering | DSB Ch. 6 | HW 9; Q11; MS 10 |
+| 12 (11/16-11/22) | Week 12 - Recommender Engines | DSB Ch. 12 | Q12; MS 11 |
+| 13 (11/23-11/29) | Week 13 - Ensemble methods | DSB Ch. 12 | HW 10; MS 12 |
 | 14 (11/30-12/6) | Week 14 - **Exam 2: Wednesday, December 1 (in person with LockDown Browser)**; project work and discussions |  |  |
 | 15 (12/7-12/10) | Week 15 - Final class, project submission, and next steps for learning more about data mining |  | Final Project Files Submission; HW 11; MS 13 |
 
