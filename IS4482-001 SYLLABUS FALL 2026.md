@@ -70,7 +70,7 @@ A secondary book is Python for Data Analysis. This book is a thorough resource t
 
 [https://learning.oreilly.com/library/view/python-for-data/9781491957653/](https://learning.oreilly.com/library/view/python-for-data/9781491957653/) 
 
-**\[HAML\]** Aurélien Géron, Hands on Machine Learning with Scikit-learn, Keras and Tensorflow, O’Reilly, 2021
+**HAML** Aurélien Géron, Hands on Machine Learning with Scikit-learn, Keras and Tensorflow, O’Reilly, 2021
 
 [https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
@@ -227,10 +227,10 @@ MS = Weekly Module Survey
 | 5 (9/21-9/27) | Week 5 - Numeric prediction and descriptives | DSB Ch. 5, 7, 9 | HW 5; Q5; MS 5 |
 | 6 (9/28-10/4) | Week 6 - Linear regression and regression trees | DSB Ch. 4 | Q6; MS 6 |
 | 7 (10/5-10/9) | Week 7 - **Exam 1: Tuesday, October 6 (in person with LockDown Browser)**  | DSB Ch. 4 | HW 6 |
-| 10/10-10/18 | **Fall Break - no class Tuesday, October 13** |  |  |
+| 10/10-10/18 | **Fall Break** |  |  |
 | 8 (10/19-10/25) | Week 8 - Support vector machines and grid search | DSB Ch. 4 | Q8; MS 7 |
 | 9 (10/26-11/1) | Week 9 - Neural networks | DSB Ch. 4 | HW 7; Q9; MS 97 |
-| 10 (11/2-11/8) | Week 10 - K-nearest neighbors and project EDA submission | DSB Ch. 6 | HW 8; Q10; MS 9 |
+| 10 (11/2-11/8) | Week 10 - K-nearest neighbors | DSB Ch. 6 | HW 8; Q10; MS 9 |
 | 11 (11/9-11/15) | Week 11 - Clustering | DSB Ch. 6 | HW 9; Q11; MS 10 |
 | 12 (11/16-11/22) | Week 12 - Recommender Engines | DSB Ch. 12 | Q12; MS 11 |
 | 13 (11/23-11/29) | Week 13 - Ensemble methods | DSB Ch. 12 | HW 10; MS 12 |
